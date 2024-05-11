@@ -9,3 +9,5 @@ Objective:
 The primary objective is to cluster countries based on relevant socio-economic and health indicators to identify those in the direst need of aid. By categorizing countries into distinct groups, the CEO can prioritize resources and focus aid efforts on regions with the greatest need.
 
 #### Logistic Regression and SVM performs the best. Hence we can consider any of this model.
+
+### Downloaed Dataset from Kaggle
